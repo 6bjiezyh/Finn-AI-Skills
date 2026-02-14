@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily AI Topic Planner"
+  short_description: "Daily AI/n8n topic ideas with monetization hooks"
+  default_prompt: "Generate today's content package: 3 long-video ideas and 7 short-video ideas with titles and monetization hooks."
